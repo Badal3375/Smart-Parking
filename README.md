@@ -3,12 +3,17 @@
 Badal Singh
 
 Email-- singh.badal3375@gmail.com 
+
+
+
 Machine Learning & Computer Vision Enthusiast
 
 
 
 
 🚗 Smart Parking Occupancy Detection System
+
+
 📌 Project Overview
 
 
